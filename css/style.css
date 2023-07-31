@@ -86,7 +86,7 @@ a{
 .bi-arrow-up-right-circle{
     color:#2D8cff;
 }
-.bi-linkedin{
+.linkedin{
     font-size: 30px;
     color: #2D8cff;
 }
@@ -128,4 +128,42 @@ background-color: #2D8cff;
 .bg-form form{
     background-color: #f3f3f3;
     border: none;
+}
+.list-unstyled li{
+    display: inline-block;
+    text-align: center;
+}
+.list-unstyled li a{
+    text-decoration: underline;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #f3f3f3;
+    text-align: center;
+}
+.social-footer .bi{
+color: #f3f3f3;
+font-size: 30px;
+text-align: center;
+}
+.styleContactus{
+    background-color: #292a32;
+}
+.styleContactus input{
+    border: 1px soild;
+    border-color:#f3f3f3;
+    border-radius: 10px;
+    height: 40px;
+}
+.bg-footer{
+    background-color: #191a23;
+    border-radius: 50px 50px 0px 0px;
+}
+.bg-blue{
+    background-color: #2D8cff;
+    padding: 3px;
+    color: black;
+    font-weight: 600;
+}
+.btn-primary{
+    color: black;
 }
